@@ -1,680 +1,680 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\cmake_pch.cxx">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\cmake_pch.cxx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\appwindowprofiler.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\appwindowprofiler.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\bitarray.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\bitarray.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\cameramanipulator.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\cameramanipulator.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\filemapping.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\filemapping.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\gltfscene.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\gltfscene.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\nvprint.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\nvprint.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\parametertools.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\parametertools.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\primitives.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\primitives.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\profiler.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\profiler.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\shaderfilemanager.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\shaderfilemanager.cpp">
       <Filter>nvh</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_axis.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_axis.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_camera_widget.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_camera_widget.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_helper.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_helper.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_orient.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_orient.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\backends\imgui_impl_glfw.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\backends\imgui_impl_glfw.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\backends\imgui_vk_extra.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\backends\imgui_vk_extra.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\backends\imgui_impl_vulkan.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\backends\imgui_impl_vulkan.cpp">
       <Filter>imgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\nv_dds.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\nv_dds.cpp">
       <Filter>fileformats</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\tiny_converter.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\tiny_converter.cpp">
       <Filter>fileformats</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpwindow.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpwindow.cpp">
       <Filter>nvp</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpsystem.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpsystem.cpp">
       <Filter>nvp</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpfilesystem.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpfilesystem.cpp">
       <Filter>nvp</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpsystem_win32.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpsystem_win32.cpp">
       <Filter>nvp</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\appwindowprofiler_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\appwindowprofiler_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\buffersuballocator_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\buffersuballocator_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\commands_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\commands_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\context_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\context_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\debug_util_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\debug_util_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\descriptorsets_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\descriptorsets_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\dynamicrendering_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\dynamicrendering_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\error_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\error_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\extensions_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\extensions_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\gizmos_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\gizmos_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\images_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\images_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_dedicated_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_dedicated_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memorymanagement_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memorymanagement_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memorymanagement_vkgl.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memorymanagement_vkgl.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\pipeline_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\pipeline_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\profiler_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\profiler_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\raytraceKHR_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\raytraceKHR_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\raytraceNV_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\raytraceNV_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\renderpasses_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\renderpasses_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\resourceallocator_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\resourceallocator_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\samplers_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\samplers_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\sbtwrapper_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\sbtwrapper_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\shadermodulemanager_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\shadermodulemanager_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\sparse_image_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\sparse_image_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\stagingmemorymanager_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\stagingmemorymanager_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\swapchain_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\swapchain_vk.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\vulkanhppsupport.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\vulkanhppsupport.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\vulkanhppsupport_vkgl.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\vulkanhppsupport_vkgl.cpp">
       <Filter>nvvk</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\appbase_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\appbase_vk.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\appbase_vkpp.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\appbase_vkpp.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\application.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\application.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gbuffer.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gbuffer.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gltf_scene.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gltf_scene.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gltf_scene_rtx.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gltf_scene_rtx.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gltf_scene_vk.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gltf_scene_vk.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\hdr_env.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\hdr_env.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\hdr_env_dome.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\hdr_env_dome.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\sky.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\sky.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\tonemap_postprocess.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\tonemap_postprocess.cpp">
       <Filter>nvvkhl</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\alignment.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\alignment.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\appwindowcamerainertia.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\appwindowcamerainertia.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\appwindowprofiler.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\appwindowprofiler.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\bitarray.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\bitarray.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\boundingbox.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\boundingbox.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\cameracontrol.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\cameracontrol.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\camerainertia.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\camerainertia.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\cameramanipulator.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\cameramanipulator.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\commandlineparser.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\commandlineparser.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\container_utils.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\container_utils.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\filemapping.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\filemapping.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\fileoperations.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\fileoperations.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\geometry.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\geometry.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\gltfscene.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\gltfscene.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\inputparser.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\inputparser.h">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\misc.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\misc.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\nsightevents.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\nsightevents.h">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\nvprint.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\nvprint.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\parallel_work.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\parallel_work.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\parametertools.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\parametertools.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\primitives.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\primitives.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\profiler.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\profiler.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\radixsort.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\radixsort.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\shaderfilemanager.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\shaderfilemanager.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\threading.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\threading.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\timesampler.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\timesampler.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvh\trangeallocator.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvh\trangeallocator.hpp">
       <Filter>nvh</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvmath\nvmath.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvmath\nvmath.h">
       <Filter>nvmath</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvmath\nvmath.inl">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvmath\nvmath.inl">
       <Filter>nvmath</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvmath\nvmath_glsltypes.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvmath\nvmath_glsltypes.h">
       <Filter>nvmath</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvmath\nvmath_hlsltypes.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvmath\nvmath_hlsltypes.h">
       <Filter>nvmath</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvmath\nvmath_types.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvmath\nvmath_types.h">
       <Filter>nvmath</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_axis.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_axis.hpp">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_camera_widget.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_camera_widget.h">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_helper.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_helper.h">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\imgui_orient.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\imgui_orient.h">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\backends\imgui_impl_glfw.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\backends\imgui_impl_glfw.h">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\backends\imgui_vk_extra.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\backends\imgui_vk_extra.h">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui\backends\imgui_impl_vulkan.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui\backends\imgui_impl_vulkan.h">
       <Filter>imgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\bmp.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\bmp.hpp">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\cadscenefile.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\cadscenefile.h">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\khr_df.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\khr_df.h">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\nv_dds.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\nv_dds.h">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\nv_ktx.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\nv_ktx.h">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\nv_ktx.inl">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\nv_ktx.inl">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\tiny_converter.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\tiny_converter.hpp">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\fileformats\tiny_gltf_freeimage.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\fileformats\tiny_gltf_freeimage.h">
       <Filter>fileformats</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpwindow.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpwindow.hpp">
       <Filter>nvp</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpsystem.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpsystem.hpp">
       <Filter>nvp</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\nvpfilesystem.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\nvpfilesystem.hpp">
       <Filter>nvp</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp\perproject_globals.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp\perproject_globals.hpp">
       <Filter>nvp</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\appwindowprofiler_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\appwindowprofiler_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\buffers_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\buffers_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\buffersuballocator_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\buffersuballocator_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\commands_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\commands_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\compute_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\compute_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\context_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\context_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\debug_util_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\debug_util_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\descriptorsets_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\descriptorsets_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\dynamicrendering_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\dynamicrendering_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\error_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\error_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\extensions_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\extensions_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\gizmos_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\gizmos_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\images_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\images_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_dedicated_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_dedicated_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_dma_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_dma_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_vma_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_vma_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memallocator_vma_vk.inl">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memallocator_vma_vk.inl">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memorymanagement_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memorymanagement_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\memorymanagement_vkgl.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\memorymanagement_vkgl.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\nsight_aftermath_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\nsight_aftermath_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\pipeline_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\pipeline_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\profiler_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\profiler_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\raypicker_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\raypicker_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\raytraceKHR_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\raytraceKHR_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\raytraceNV_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\raytraceNV_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\renderpasses_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\renderpasses_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\resourceallocator_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\resourceallocator_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\samplers_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\samplers_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\sbtwrapper_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\sbtwrapper_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\shadermodulemanager_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\shadermodulemanager_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\shaders_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\shaders_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\sparse_image_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\sparse_image_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\specialization.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\specialization.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\stagingmemorymanager_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\stagingmemorymanager_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\structs_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\structs_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\swapchain_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\swapchain_vk.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\vulkanhppsupport.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\vulkanhppsupport.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvk\vulkanhppsupport_vkgl.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvk\vulkanhppsupport_vkgl.hpp">
       <Filter>nvvk</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\alloc_vma.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\alloc_vma.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\appbase_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\appbase_vk.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\appbase_vkpp.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\appbase_vkpp.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\application.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\application.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\element_camera.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\element_camera.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\element_dbgprintf.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\element_dbgprintf.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\element_gui.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\element_gui.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\element_logger.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\element_logger.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\element_testing.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\element_testing.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gbuffer.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gbuffer.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\glsl_compiler.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\glsl_compiler.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gltf_scene.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gltf_scene.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gltf_scene_rtx.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gltf_scene_rtx.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\gltf_scene_vk.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\gltf_scene_vk.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\hdr_env.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\hdr_env.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\hdr_env_dome.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\hdr_env_dome.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\pipeline_container.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\pipeline_container.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\scene_camera.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\scene_camera.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\sky.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\sky.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\tonemap_postprocess.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\tonemap_postprocess.hpp">
       <Filter>nvvkhl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\dh_comp.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\dh_comp.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\dh_hdr.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\dh_hdr.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\dh_lighting.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\dh_lighting.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\dh_scn_desc.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\dh_scn_desc.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\dh_sky.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\dh_sky.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\dh_tonemap.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\dh_tonemap.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\pbr_mat_struct.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\pbr_mat_struct.h">
       <Filter>nvvkhl\shaders</Filter>
     </ClInclude>
     <ClInclude Include="D:\Program Files\VulkanSDK1.3\Include\vulkan\vulkan_core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\binaries\Freeimage\include\FreeImage.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\binaries\Freeimage\include\FreeImage.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\binaries\Freeimage\include\FreeImagePlus.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\binaries\Freeimage\include\FreeImagePlus.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\Debug\cmake_pch.hxx">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\Debug\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\Release\cmake_pch.hxx">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\Release\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\MinSizeRel\cmake_pch.hxx">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\MinSizeRel\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\RelWithDebInfo\cmake_pch.hxx">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\nvpro_core.dir\RelWithDebInfo\cmake_pch.hxx">
       <Filter>Precompile Header File</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\tinygltf\tiny_gltf.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\tinygltf\tiny_gltf.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\tinygltf\json.hpp">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\tinygltf\json.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\tinyobjloader\tiny_obj_loader.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\tinyobjloader\tiny_obj_loader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\vma\include\vk_mem_alloc.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\vma\include\vk_mem_alloc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\NVTX\c\include\nvtx3\nvToolsExt.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\NVTX\c\include\nvtx3\nvToolsExt.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\hdr_dome.comp">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\hdr_dome.comp">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\hdr_integrate_brdf.comp">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\hdr_integrate_brdf.comp">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\hdr_prefilter_diffuse.comp">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\hdr_prefilter_diffuse.comp">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\hdr_prefilter_glossy.comp">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\hdr_prefilter_glossy.comp">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\passthrough.vert">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\passthrough.vert">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\sky.comp">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\sky.comp">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\tonemapper.comp">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\tonemapper.comp">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\tonemapper.frag">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\tonemapper.frag">
       <Filter>nvvkhl\shaders</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\CMakeLists.txt" />
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\constants.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\constants.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\func.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\func.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\ggx.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\ggx.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\hdr_env_sampling.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\hdr_env_sampling.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\light_contrib.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\light_contrib.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\lighting.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\lighting.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\mat_eval.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\mat_eval.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\pbr_eval.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\pbr_eval.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\random.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\random.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
-    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvvkhl\shaders\ray_util.glsl">
+    <None Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvvkhl\shaders\ray_util.glsl">
       <Filter>nvvkhl\shaders</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{5D53DFDE-7AD4-3982-8745-11D4D7C4C81C}</UniqueIdentifier>
+      <UniqueIdentifier>{4EB896C3-9F57-3451-9548-DDD8FF911DF8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Precompile Header File">
-      <UniqueIdentifier>{B4535123-D0DA-342F-8188-C582FF4BC20D}</UniqueIdentifier>
+      <UniqueIdentifier>{858719E3-840C-3AFE-8954-E1D236077E46}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{81643C43-9590-3B3A-BDF2-F80A17BA9A80}</UniqueIdentifier>
+      <UniqueIdentifier>{69354AC3-E382-3DD2-A00B-2E8A1229B33F}</UniqueIdentifier>
     </Filter>
     <Filter Include="fileformats">
-      <UniqueIdentifier>{87F3ADFE-5EBD-3228-AA2C-A60539F55C64}</UniqueIdentifier>
+      <UniqueIdentifier>{6622C14C-17D0-382E-8A8C-E9F4E092FEB8}</UniqueIdentifier>
     </Filter>
     <Filter Include="imgui">
-      <UniqueIdentifier>{D3693630-33DA-399B-B3E5-1D336F167049}</UniqueIdentifier>
+      <UniqueIdentifier>{67972806-7126-3A2E-A187-AF2065F4BDC1}</UniqueIdentifier>
     </Filter>
     <Filter Include="nvh">
-      <UniqueIdentifier>{8C02F5E8-6A2B-3C64-868B-537C52044514}</UniqueIdentifier>
+      <UniqueIdentifier>{BB410AA7-9E45-35B4-AA36-2752C9D46C5C}</UniqueIdentifier>
     </Filter>
     <Filter Include="nvmath">
-      <UniqueIdentifier>{01DE79E7-285F-3960-B6DC-CFA2C7C46B13}</UniqueIdentifier>
+      <UniqueIdentifier>{A26333CE-4E5A-31AE-8A85-F5059F1370E4}</UniqueIdentifier>
     </Filter>
     <Filter Include="nvp">
-      <UniqueIdentifier>{574CCB2C-BED8-3757-A152-FBEE142F5AA1}</UniqueIdentifier>
+      <UniqueIdentifier>{D9922909-A669-3038-AF7B-2AA61F1D8372}</UniqueIdentifier>
     </Filter>
     <Filter Include="nvvk">
-      <UniqueIdentifier>{15FF9F58-49D6-3062-A381-D9289F7E8181}</UniqueIdentifier>
+      <UniqueIdentifier>{68872EE2-A3FB-360E-82B4-09374255CFF6}</UniqueIdentifier>
     </Filter>
     <Filter Include="nvvkhl">
-      <UniqueIdentifier>{1EF71D35-5F6D-31E7-9C84-CADF9593008D}</UniqueIdentifier>
+      <UniqueIdentifier>{380D85C8-0447-3DDF-A3B1-15ADFF654D7B}</UniqueIdentifier>
     </Filter>
     <Filter Include="nvvkhl\shaders">
-      <UniqueIdentifier>{F4286A7D-8D54-3E6B-92E6-B9486D5B0898}</UniqueIdentifier>
+      <UniqueIdentifier>{76A29713-0319-3088-88BE-688A711775E3}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

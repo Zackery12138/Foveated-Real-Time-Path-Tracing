@@ -249,32 +249,19 @@ VK_KHR_ray_query
 VK_KHR_deferred_host_operations
 VK_KHR_buffer_device_address
 
-Create Offscreen --> (2.586 ms)
-Loading HDR and converting D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/bin_x64/Debug/../../downloaded_resources//std_env.hdr
- --> (191.859 ms)
-Loading scene: D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/bin_x64/Debug/../../downloaded_resources//casino_grand/scene.gltf --> (592.278 ms)
-Loading 11 external images --> (631.081 ms)
-Convert to internal GLTF --> (7507.626 ms)
+Create Offscreen --> (166.934 ms)
+Loading HDR and converting D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/bin_x64/Debug/../../downloaded_resources//std_env.hdr
+ --> (286.919 ms)
+Loading scene: D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/bin_x64/Debug/../../downloaded_resources//casino_grand/scene.gltf --> (675.696 ms)
+Loading 11 external images --> (732.606 ms)
+Convert to internal GLTF --> (5769.995 ms)
 Create Buffers
- - Create 23 Material Buffer --> (0.204 ms)
- - Create 11 Textures, 11 Images --> (4.011 ms)
- - Create 122 Vertex Buffers --> (5562.347 ms)
- <Finalize> --> (68.310 ms)
+ - Create 23 Material Buffer --> (0.140 ms)
+ - Create 11 Textures, 11 Images --> (2.587 ms)
+ - Create 122 Vertex Buffers --> (4264.412 ms)
+ <Finalize> --> (66.632 ms)
 Create acceleration structure 
  BLAS(122)RT BLAS: reducing from: 468756992 to: 176904320 = 291852672 (62.26% smaller) 
- TLAS(122) --> (360.916 ms)
+ TLAS(122) --> (350.775 ms)
 Switching renderer, from 1 to 0 
-Create RtxPipeline --> (2939.736 ms)
-Loading: D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\downloaded_resources\bathroom_interior\scene.gltf
-Loading scene: D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\downloaded_resources\bathroom_interior\scene.gltf --> (226.524 ms)
-Loading 51 external images --> (1619.198 ms)
-Convert to internal GLTF --> (80.064 ms)
-Create Buffers
- - Create 33 Material Buffer --> (0.195 ms)
- - Create 51 Textures, 51 Images --> (66.739 ms)
- - Create 33 Vertex Buffers --> (60.803 ms)
- <Finalize> --> (52.957 ms)
-Create acceleration structure 
- BLAS(33)RT BLAS: reducing from: 4399488 to: 2021376 = 2378112 (54.05% smaller) 
- TLAS(33) --> (64.502 ms)
-Create RtxPipeline --> (3059.627 ms)
+Create RtxPipeline --> (2063.501 ms)

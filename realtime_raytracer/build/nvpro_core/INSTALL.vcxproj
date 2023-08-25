@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{08729884-1399-32B5-97EE-F8B437E7A1B0}</ProjectGuid>
+    <ProjectGuid>{D577A25E-B831-35DE-BAE7-569AB40563EB}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
@@ -125,7 +125,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\CMakeFiles\a70fb3caba6ea64d111ff557429bf2e1\INSTALL_force.rule">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\CMakeFiles\75861068d5c2b74a5e777d06c337ef84\INSTALL_force.rule">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
 cd .
@@ -137,7 +137,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'"> </Message>
@@ -151,7 +151,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'"> </Message>
@@ -165,7 +165,7 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</VerifyInputsAndOutputsExist>
       <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'"> </Message>
@@ -179,20 +179,20 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
       <VerifyInputsAndOutputsExist Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</VerifyInputsAndOutputsExist>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\ZERO_CHECK.vcxproj">
-      <Project>{99746654-4693-3719-B1A5-57DFB813FF7E}</Project>
+    <ProjectReference Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\ZERO_CHECK.vcxproj">
+      <Project>{481E732F-3BF0-3603-9BB3-494C745B6C82}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\ALL_BUILD.vcxproj">
-      <Project>{972EC1AB-09D4-37EF-BBB4-31F693C3D025}</Project>
+    <ProjectReference Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\ALL_BUILD.vcxproj">
+      <Project>{347B1569-D8E6-3BFE-9EA0-F06C2395C39E}</Project>
       <Name>ALL_BUILD</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

@@ -22,7 +22,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{972EC1AB-09D4-37EF-BBB4-31F693C3D025}</ProjectGuid>
+    <ProjectGuid>{347B1569-D8E6-3BFE-9EA0-F06C2395C39E}</ProjectGuid>
     <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Keyword>Win32Proj</Keyword>
     <Platform>x64</Platform>
@@ -66,7 +66,7 @@
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <Midl>
-      <AdditionalIncludeDirectories>D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -76,7 +76,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <Midl>
-      <AdditionalIncludeDirectories>D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -86,7 +86,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
     <Midl>
-      <AdditionalIncludeDirectories>D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -96,7 +96,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
     <Midl>
-      <AdditionalIncludeDirectories>D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\imgui;D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\nvp;D:\Program Files\VulkanSDK1.3\Include;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\imgui;D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\binaries\Freeimage\include;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -105,11 +105,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\CMakeLists.txt">
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/nvpro_core/third_party/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/nvpro_core/third_party/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer -BD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer -BD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -118,11 +118,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/nvpro_core/third_party/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/nvpro_core/third_party/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer -BD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer -BD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -131,11 +131,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/nvpro_core/third_party/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/nvpro_core/third_party/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer -BD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer -BD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -144,11 +144,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/nvpro_core/third_party/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/nvpro_core/third_party/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer -BD:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/RealtimeRaytracer-cleanupTonemapper/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer -BD:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build --check-stamp-file D:/kejian/MscProject/Foveated-Real-Time-Path-Tracing/realtime_raytracer/build/nvpro_core/third_party/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -157,25 +157,25 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\ZERO_CHECK.vcxproj">
-      <Project>{99746654-4693-3719-B1A5-57DFB813FF7E}</Project>
+    <ProjectReference Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\ZERO_CHECK.vcxproj">
+      <Project>{481E732F-3BF0-3603-9BB3-494C745B6C82}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\glfw\src\glfw.vcxproj">
-      <Project>{88EA98F1-5848-31BF-A7A5-CA1B8975AF02}</Project>
+    <ProjectReference Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\glfw\src\glfw.vcxproj">
+      <Project>{93FABF3A-B338-37E5-863C-CFC97F6A85F9}</Project>
       <Name>glfw</Name>
     </ProjectReference>
-    <ProjectReference Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\imgui.vcxproj">
-      <Project>{F5179D99-7770-3A7C-BF69-3771C932C471}</Project>
+    <ProjectReference Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\realtime_raytracer\build\nvpro_core\third_party\imgui.vcxproj">
+      <Project>{588F60C8-8464-3C52-8F80-0CC82011D655}</Project>
       <Name>imgui</Name>
     </ProjectReference>
   </ItemGroup>

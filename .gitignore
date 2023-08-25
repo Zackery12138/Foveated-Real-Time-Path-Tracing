@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,c++,cmake
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,c++,cmake
 
+downloaded_resources/
 ### C++ ###
 # Prerequisites
 *.d

@@ -1,51 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui_demo.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui_demo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui_draw.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui_draw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui_tables.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui_tables.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui_widgets.cpp">
+    <ClCompile Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui_widgets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imconfig.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imconfig.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imgui_internal.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imgui_internal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imstb_rectpack.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imstb_rectpack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imstb_textedit.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imstb_textedit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\imgui\imstb_truetype.h">
+    <ClInclude Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\imgui\imstb_truetype.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\CMakeLists.txt" />
+    <CustomBuild Include="D:\kejian\MscProject\Foveated-Real-Time-Path-Tracing\nvpro_core\third_party\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{5D53DFDE-7AD4-3982-8745-11D4D7C4C81C}</UniqueIdentifier>
+      <UniqueIdentifier>{4EB896C3-9F57-3451-9548-DDD8FF911DF8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{81643C43-9590-3B3A-BDF2-F80A17BA9A80}</UniqueIdentifier>
+      <UniqueIdentifier>{69354AC3-E382-3DD2-A00B-2E8A1229B33F}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
