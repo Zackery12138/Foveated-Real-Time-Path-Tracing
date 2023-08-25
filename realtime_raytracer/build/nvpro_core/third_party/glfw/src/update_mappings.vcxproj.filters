@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\CMakeFiles\b9aab4c083066c320929de488a17efc7\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\nvpro_core\third_party\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="D:\kejian\MscProject\RealtimeRaytracer-cleanupTonemapper\realtime_raytracer\build\nvpro_core\third_party\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3533DF18-7577-3ED3-B449-838729BAEE96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5D53DFDE-7AD4-3982-8745-11D4D7C4C81C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
