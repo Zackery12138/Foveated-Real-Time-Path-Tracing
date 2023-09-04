@@ -22,8 +22,8 @@ static int const WINDOW_HEIGHT = 720;
 int main(int argc, char** argv)
 {
   InputParser parser(argc, argv);
-  std::string sceneFile = parser.getString("-f", "casino_grand/scene.gltf");
-  //std::string sceneFile = parser.getString("-f", "bathroom_interior/scene.gltf");
+  //std::string sceneFile = parser.getString("-f", "casino_grand/scene.gltf");
+  std::string sceneFile = parser.getString("-f", "bathroom_interior/scene.gltf");
   std::string hdrFilename = parser.getString("-e", "std_env.hdr");
 
   // Setup GLFW window
