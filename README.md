@@ -9,3 +9,7 @@ cd realtime_raytracer
 mkdir build
 cd build
 cmake ..
+
+## Jitter Camera Anti-Aliasing
+![jitter](./screen_shots/JitterCamera.png)
+
